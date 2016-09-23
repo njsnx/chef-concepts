@@ -1,0 +1,21 @@
+{
+  "id": "finacne_users",
+  "purpose": "Users in the Finance role",
+  "users": [
+    {
+      "Description": "Fast typer",
+      "name": "JQ",
+      "uuid": 1231223
+    },
+    {
+      "Description": "Faster typer",
+      "name": "sherry",
+      "uuid": 12312345
+    },
+    {
+      "Description": "Fastest typer",
+      "name": "neil",
+      "uuid": 12312566
+    }
+  ]
+}

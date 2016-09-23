@@ -1,0 +1,21 @@
+{
+  "id": "it_users",
+  "purpose": "Users in the IT role",
+  "users": [
+    {
+      "Description": "Fast typer",
+      "name": "JQ",
+      "uuid": 12312
+    },
+    {
+      "Description": "Faster typer",
+      "name": "sherry",
+      "uuid": 1231234
+    },
+    {
+      "Description": "Fastest typer",
+      "name": "neil",
+      "uuid": 1231256
+    }
+  ]
+}
